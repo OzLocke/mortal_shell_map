@@ -10,4 +10,6 @@
         2 --- 3
         3 --- 4
         4 --- 5
+
+        click 4 "https://github.com/OzLocke/mortal_shell_map/blob/main/temple_grounds.md" "View Temple Grounds map"
 ```

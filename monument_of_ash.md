@@ -35,8 +35,9 @@ graph BT
     9 --- 11
     11 -.- out
 
-  click in "./temple_grounds.md" "View Temple Grounds map"
-  click out "./?.md" "View ? map"
+  click in "https://github.com/OzLocke/mortal_shell_map/blob/main/temple_grounds.md" "View Temple Grounds map"
+  click out "https://github.com/OzLocke/mortal_shell_map/blob/main/?.md" "View ? map"
   end
 
 ```
+

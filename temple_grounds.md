@@ -57,8 +57,8 @@ graph BT
     2 --- 4
     4 -.- out
   
-  click in "./the_mist.md"
-  click out "./momument_of_ash.md"
+  click in "https://github.com/OzLocke/mortal_shell_map/blob/main/the_mist.md" "View The Mist map"
+  click out "https://github.com/OzLocke/mortal_shell_map/blob/main/monument_of_ash.md" "View Monument of Ash map"
   end
   
 ```
