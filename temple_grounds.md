@@ -1,8 +1,8 @@
 ```mermaid
 graph BT
 
-  click in "the_mist.md"
-  click out "momument_of_ash.md"
+  click in ".\the_mist.md"
+  click out ".\momument_of_ash.md"
   
   in[\<b>The Mist</b>/]
   1(["
