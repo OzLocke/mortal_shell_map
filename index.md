@@ -11,5 +11,5 @@
         3 --- 4
         4 --- 5
 
-        click 4 "https://github.com/OzLocke/mortal_shell_map/blob/main/temple_grounds.md" "View Temple Grounds map"
+        click 4 href "https://github.com/OzLocke/mortal_shell_map/blob/main/temple_grounds.md" "View Temple Grounds map"
 ```
